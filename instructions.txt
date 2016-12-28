@@ -1,0 +1,7 @@
+http://localhost/news/list/ - list all news
+http://localhost/news/list/1/ - view for the information for given news item
+http://localhost/news/insert/ - insert operation
+http://localhost/news/update/1/ - update operation
+http://localhost/news/delete/1/ - delete operation
+
+Every url is tested on "Postman" google tool
